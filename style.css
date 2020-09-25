@@ -6,6 +6,7 @@ body{
     padding: 0;
     font-family: Arial;
 }
+
 nav{
     width: 100%;
     background: #262626;
@@ -39,6 +40,7 @@ a{
     height: 700px;
     display: inline-block;
     width: 100%;
+    
 }
 #sec3{
     height: 700px;
